@@ -1,2 +1,8 @@
-# dio-projects
-Todos os projetos desenvolvidos durante cursos dentro da plataforma Digital Innovation One
+# Digital Innovation One Repository
+
+Aqui vão estar todos os projetos que desenvolvi dentro da plataforma DIO
+
+### Pode ficar a vontade
+
+
+## 🚀 Let's code! 🚀
